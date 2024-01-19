@@ -49,7 +49,7 @@ To build app and run test in headless mode, run `yarn e2e:ci`. It will build app
 2) Remote App Development (Client's View)
 
 * Develop a landing page using components from the Component App.
-* Integrate Vitest for testing. Write basic tests for your components.
+* Integest for testing. Write basic tests for your components.
 * Implement a fake API call to fetch and display data (use tools like JSONPlaceholder or create your own mock data).
 Use mockapi for a quick available api : https://mockapi.io/  or the pokemon api https://pokeapi.co/
 
