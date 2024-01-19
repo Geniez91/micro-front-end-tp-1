@@ -1,0 +1,23 @@
+{
+  "name": "cra_remote-vitest",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "eslintConfig": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "vitest": "^1.2.1"
+  }
+}
