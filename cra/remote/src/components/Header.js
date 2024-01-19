@@ -4,7 +4,7 @@ import React from 'react';
 const Header = () => {
   return (
     <header>
-      <h1>Mon Landing Page</h1>
+      <h1 id="monElement">Mon Landing Page</h1>
     </header>
   );
 };
